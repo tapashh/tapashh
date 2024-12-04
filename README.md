@@ -7,15 +7,12 @@ I’m a B.Tech student in Mechanical Engineering with a passion for solving real
 🚀 What I’m Working On
 
 Learning: Expanding my expertise in [C/C++, Python, JavaScript, React].
-
 Exploring: Diving into areas like [Data structures, algorithms and web development].
 
 🔧 Tech Stack
 
 Languages: [Python, C/C++, Javascript]
-
 Frameworks/Tools: [Git, Node.js, SQL, React]
-
 Interests: Problem-solving, system design, and scalable software architecture.
 
 🌟 Fun Fact
