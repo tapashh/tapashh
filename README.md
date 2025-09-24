@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tapashbiswas379@gmail.com**
 
-- ⚡ Fun fact **I am also a Mechanical Engineer.**
+- ⚡ Fun fact **I am also a Singer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
