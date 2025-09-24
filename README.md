@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tapash Biswas</h1>
-<h3 align="center">A passionate Pre-final yearite student at Indian Institute of Technology, Guwahati.</h3>
+<h3 align="center">A passionate Final yearite student at Indian Institute of Technology, Guwahati.</h3>
 
-- 🔭 I’m currently working on **DSA and Web Development**
+- 🔭 I’m currently working on **Mechanical Core**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **tapashbiswas379@gmail.com**
 
